@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d5195279e9a55fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "98f053dba4ad22a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58145ac1f3f26567",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Tester.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Tester"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d54b255bf28ba2de",
+    "type": "split",
+    "children": [
+      {
+        "id": "61e9fb27495606bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9413c86442b8995",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89005fdeac50a1fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff772b86b9622ed3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cda09695b639b22",
+    "type": "split",
+    "children": [
+      {
+        "id": "dedcbada485ca8ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f0a27a84843ed60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-20 21.37.22.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2024-12-20 21.37.22.excalidraw"
+            }
+          },
+          {
+            "id": "f4359f377f62bbd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-20 21.37.22.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2024-12-20 21.37.22.excalidraw"
+            }
+          },
+          {
+            "id": "f2ffcee8beefe116",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96b339b5da0dd826",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dingus.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dingus"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "58145ac1f3f26567",
+  "lastOpenFiles": [
+    "LLM Test.md",
+    "Untitled.md",
+    "Excalidraw/Tester.md",
+    "Dingus.md",
+    "Excalidraw/History of Ideas.md",
+    "Jacques Derrida.md",
+    "10.md",
+    "13.md",
+    "Excalidraw/Drawing 2024-12-20 22.16.31.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "History Map.canvas",
+    "desktop.ini"
+  ]
+}
