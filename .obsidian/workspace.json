@@ -8,15 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58145ac1f3f26567",
+            "id": "5ec98cde419413b1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Tester.md"
+                "file": "Git Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Tester"
+              "icon": "lucide-file",
+              "title": "Git Test"
             }
           }
         ]
@@ -142,14 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Dingus"
             }
+          },
+          {
+            "id": "9868812f7cba7b43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,14 +173,15 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58145ac1f3f26567",
+  "active": "5ec98cde419413b1",
   "lastOpenFiles": [
-    "LLM Test.md",
-    "Untitled.md",
     "Excalidraw/Tester.md",
+    "Git Test.md",
+    "LLM Test.md",
     "Dingus.md",
     "Excalidraw/History of Ideas.md",
     "Jacques Derrida.md",
