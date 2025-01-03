@@ -181,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +200,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "24ba9e8a9cfb6883",
+  "active": "9868812f7cba7b43",
   "lastOpenFiles": [
     "Git Test.md",
     "2025-01-01.md",
