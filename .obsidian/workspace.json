@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-20 21.37.22.excalidraw.md",
+                "file": "2025-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2024-12-20 21.37.22.excalidraw"
+              "title": "Backlinks for 2025-01-01"
             }
           },
           {
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -162,8 +162,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -180,12 +180,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +196,11 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
       "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9868812f7cba7b43",
+  "active": "24ba9e8a9cfb6883",
   "lastOpenFiles": [
     "Git Test.md",
     "2025-01-01.md",

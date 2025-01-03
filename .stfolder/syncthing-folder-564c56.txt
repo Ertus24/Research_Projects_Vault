@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: acmmz-cbesd
+created: 2025-01-03T18:56:22+10:00
