@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Voice Transcriptions/Recorder Folder A/230519_184417_00.md",
+                "file": "Voice Transcriptions/Recorder Folder B/231003_181149_00.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "230519_184417_00"
+              "title": "231003_181149_00"
             }
           }
         ]
@@ -200,11 +200,16 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b2f3dc3ba3e59cc4",
   "lastOpenFiles": [
+    "Voice Transcriptions/Recorder Folder B/230808_144405_00.md",
+    "Voice Transcriptions/Recorder Folder B/230628_071935_00.md",
+    "Voice Transcriptions/Recorder Folder A/231220_174258_00.md",
+    "Voice Transcriptions/Recorder Folder A/230519_184417_00.md",
     "Voice Transcriptions/Recorder Folder C/~syncthing~230609_065800_00.md.tmp",
     "Voice Transcriptions/Recorder Folder A/230511_125628_00.md",
     "Voice Transcriptions/Recorder Folder A/230511_161014_00.md",
@@ -228,9 +233,6 @@
     "Voice Transcriptions/Recorder Folder C/240924_113733_00.md",
     "Voice Transcriptions/Recorder Folder C/240923_201732_00.md",
     "Voice Transcriptions/Recorder Folder C/240923_144928_00.md",
-    "Voice Transcriptions/Recorder Folder C/240923_103344_00.md",
-    "Voice Transcriptions/Recorder Folder C/240922_173152_00.md",
-    "Voice Transcriptions/Recorder Folder C/240922_151129_00.md",
     "Voice Transcriptions/Recorder Folder C",
     "Voice Transcriptions/New folder",
     "Voice Transcriptions/Recorder Folder B",
