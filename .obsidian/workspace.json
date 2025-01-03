@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8affd2d90f6a6132",
+        "id": "d545abdbfe0ba5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "dc777e43048437e1",
+            "id": "b2f3dc3ba3e59cc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Voice Transcriptions/Recorder Folder A/230519_184417_00.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "230519_184417_00"
             }
           }
         ]
@@ -48,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Voice Transcriptions/Recorder Folder A/230519_184417_00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 230519_184417_00"
             }
           },
           {
@@ -134,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-01.md"
+                "file": "Voice Transcriptions/Recorder Folder A/230519_184417_00.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-01"
+              "title": "Outline of 230519_184417_00"
             }
           },
           {
@@ -174,7 +180,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,23 +203,41 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false
     }
   },
-  "active": "dc777e43048437e1",
+  "active": "b2f3dc3ba3e59cc4",
   "lastOpenFiles": [
-    "Sync Ignore Test.md",
-    "Test 2.md",
-    "Untitled.md",
-    "~syncthing~Untitled.md.tmp",
-    "Dingus.md",
-    "2025-01-01.md",
-    "Git Test.md",
-    "202501011640.md",
-    "Excalidraw/Tester.md",
-    "LLM Test.md",
-    "Excalidraw/History of Ideas.md",
-    "Jacques Derrida.md",
-    "10.md",
-    "13.md",
-    "Excalidraw/Drawing 2024-12-20 22.16.31.excalidraw.md",
+    "Voice Transcriptions/Recorder Folder C/~syncthing~230609_065800_00.md.tmp",
+    "Voice Transcriptions/Recorder Folder A/230511_125628_00.md",
+    "Voice Transcriptions/Recorder Folder A/230511_161014_00.md",
+    "Voice Transcriptions/Recorder Folder A/230516_070104_00.md",
+    "Voice Transcriptions/Recorder Folder A/230511_171203_00.md",
+    "Voice Transcriptions/Recorder Folder A/230511_164252_00.md",
+    "Voice Transcriptions/Recorder Folder C/241209_082911_00.md",
+    "Voice Transcriptions/Recorder Folder C/241203_180849_00.md",
+    "Voice Transcriptions/Recorder Folder C/241128_173856_00.md",
+    "Voice Transcriptions/Recorder Folder C/241029_083453_00.md",
+    "Voice Transcriptions/Recorder Folder C/241029_082538_00.md",
+    "Voice Transcriptions/Recorder Folder C/241022_175331_00.md",
+    "Voice Transcriptions/Recorder Folder C/241022_083505_00.md",
+    "Voice Transcriptions/Recorder Folder C/241015_084852_00.md",
+    "Voice Transcriptions/Recorder Folder C/241013_141056_00.md",
+    "Voice Transcriptions/Recorder Folder C/241013_102015_00.md",
+    "Voice Transcriptions/Recorder Folder C/241011_130752_00.md",
+    "Voice Transcriptions/Recorder Folder C/241010_090059_00.md",
+    "Voice Transcriptions/Recorder Folder C/240926_172747_00.md",
+    "Voice Transcriptions/Recorder Folder C/240925_134151_00.md",
+    "Voice Transcriptions/Recorder Folder C/240924_113733_00.md",
+    "Voice Transcriptions/Recorder Folder C/240923_201732_00.md",
+    "Voice Transcriptions/Recorder Folder C/240923_144928_00.md",
+    "Voice Transcriptions/Recorder Folder C/240923_103344_00.md",
+    "Voice Transcriptions/Recorder Folder C/240922_173152_00.md",
+    "Voice Transcriptions/Recorder Folder C/240922_151129_00.md",
+    "Voice Transcriptions/Recorder Folder C",
+    "Voice Transcriptions/New folder",
+    "Voice Transcriptions/Recorder Folder B",
+    "Voice Transcriptions/Recorder Folder A",
+    "Voice Transcriptions",
+    "New folder",
+    "ignore.txt",
     "Excalidraw",
     "Untitled.canvas",
     "History Map.canvas",
