@@ -198,11 +198,13 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "b2f3dc3ba3e59cc4",
   "lastOpenFiles": [
+    "OneNote",
     "Voice Transcriptions/Recorder Folder B/231003_181149_00.md",
     "Voice Transcriptions/Recorder Folder B/230808_144405_00.md",
     "Voice Transcriptions/Recorder Folder B/230628_071935_00.md",
@@ -229,7 +231,6 @@
     "Voice Transcriptions/Recorder Folder C/240926_172747_00.md",
     "Voice Transcriptions/Recorder Folder C/240925_134151_00.md",
     "Voice Transcriptions/Recorder Folder C/240924_113733_00.md",
-    "Voice Transcriptions/Recorder Folder C/240923_201732_00.md",
     "Voice Transcriptions/Recorder Folder C",
     "Voice Transcriptions/New folder",
     "Voice Transcriptions/Recorder Folder B",
